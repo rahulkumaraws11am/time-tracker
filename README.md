@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Welcome to Meerut!!!
+Welcome to kohat!!!
